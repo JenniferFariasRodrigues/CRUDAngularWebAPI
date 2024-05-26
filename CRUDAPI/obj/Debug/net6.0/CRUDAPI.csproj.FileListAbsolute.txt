@@ -25,3 +25,4 @@ C:\CRUDAngularWebAPI\CRUDAngularWebAPI\CRUDAPI\obj\Debug\net6.0\refint\CRUDAPI.d
 C:\CRUDAngularWebAPI\CRUDAngularWebAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.pdb
 C:\CRUDAngularWebAPI\CRUDAngularWebAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.genruntimeconfig.cache
 C:\CRUDAngularWebAPI\CRUDAngularWebAPI\CRUDAPI\obj\Debug\net6.0\ref\CRUDAPI.dll
+C:\CRUDAngularWebAPI\CRUDAngularWebAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.sourcelink.json
